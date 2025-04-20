@@ -1,8 +1,3 @@
-# 📘 Full GitHub Documentation
-
-Here’s a polished, **creative and professional README.md** to showcase your house price prediction project.
-
----
 
 ## 🏠 House Price Prediction App — Powered by XGBoost & Gradio
 
