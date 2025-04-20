@@ -96,14 +96,6 @@ python interface.py
 🎥 [Watch the full video demo here!](#https://www.linkedin.com/posts/raphaelssampaio_real-time-house-price-predictor-i-activity-7319774914863947776-XX6J?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmZBGwBPfgFfndVW8AdgZTzZR6SQbfedPs)
 ---
 
-### 📸 Screenshots
-
-| Terminal Prediction                         | Gradio Interface                             |
-|--------------------------------------------|----------------------------------------------|
-| ![terminal](https://i.imgur.com/TaF9oAC.png) | ![gradio](https://i.imgur.com/3RxKUJH.png)   |
-
----
-
 ### ✅ Features
 
 - ✅ Fast predictions with XGBoost
