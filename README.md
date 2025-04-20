@@ -93,7 +93,7 @@ python interface.py
 
 ### 📽 Demo
 
-🎥 [Watch the full video demo here!](#https://www.linkedin.com/posts/raphaelssampaio_real-time-house-price-predictor-i-activity-7319774914863947776-XX6J?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmZBGwBPfgFfndVW8AdgZTzZR6SQbfedPs)
+🎥 [Watch the full video demo here!](https://www.linkedin.com/posts/raphaelssampaio_real-time-house-price-predictor-i-activity-7319774914863947776-XX6J?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmZBGwBPfgFfndVW8AdgZTzZR6SQbfedPs)
 
 ---
 
