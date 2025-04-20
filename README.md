@@ -1,7 +1,3 @@
-Awesome, Raphael! You're building a full-stack data project that’s clean, modular and even has a UI! 💥 Now let's go big:
-
----
-
 # 📘 Full GitHub Documentation
 
 Here’s a polished, **creative and professional README.md** to showcase your house price prediction project.
