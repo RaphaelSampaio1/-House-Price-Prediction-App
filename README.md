@@ -3,7 +3,7 @@
 
 > Predict the price of a house in seconds based on its features using Machine Learning and a beautiful interactive interface!
 
-![cover]([https://i.imgur.com/mLOIOkX.png](https://github.com/RaphaelSampaio1/-House-Price-Prediction-App/blob/main/house_price_app.png)
+![cover](https://github.com/RaphaelSampaio1/-House-Price-Prediction-App/blob/main/house_price_app.png?raw=true)
 
 ---
 
